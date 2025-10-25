@@ -1,0 +1,117 @@
+unkompliziert,sencillo
+unabhängig,independiente
+hektisch,agitado
+Erziehung,crianza
+Ehescheidung,divorcio
+Schwiegereltern,suegros
+Betrieb,empresa
+Streit,conflicto
+Einzelkind,hijo único
+Freundeskreis,círculo de amigos
+Elternhaus,hogar familiar
+Ehepaar,pareja casada
+Schwägerin,cuñada
+Schwager,cuñado
+Hort,guardería
+Unterstützung,apoyo
+Recht,derecho
+Zusammenleben,convivencia
+Migrant,migrante
+Wohnsituation,situación de vivienda
+Dach,techo
+Generation,generación
+Scheidung,divorcio
+alleinerziehend,monoparental
+Familienmodell,modelo familiar
+alleinstehend,soltero
+Patchworkfamilie,familia reconstituida
+Schwiegermutter,suegra
+Schwiegervater,suegro
+unverheiratet,no casado
+Paar,pareja
+Großfamilienleben,vida en familia extensa
+Verhältnis,relación
+Erziehungsmethode,método de crianza
+nämlich,es decir
+halbtags,medio tiempo
+Beziehung,relación
+Gefühl,sentimiento
+Stadtbibliothek,biblioteca municipal
+Eindruck,impresión
+ausruhen,descansar
+staubsaugen,pasar la aspiradora
+abnehmen,quitar
+ausräumen,vaciar
+Wäsche,ropa
+Konflikt,conflicto
+Partnerschaft,pareja
+gleichberechtigt,en igualdad de derechos
+Gesellschaft,sociedad
+Hortgebäude,edificio de guardería
+Jugendamt,oficina de bienestar juvenil
+minderjährig,menor de edad
+Hausmann,amo de casa
+Rolle,rol
+Grundgesetz,constitución
+Mehrheit,mayoría
+insgesamt,en total
+innerhalb,dentro de
+während,durante
+wegen,debido a
+Online Anbieter,proveedor en línea
+Online Geschäft,tienda en línea
+Spiele App,aplicación de juegos
+Freude,alegría
+Chat,chat
+Gesprächsforum,foro de discusión
+Videoportal,portal de videos
+Bestellung,pedido
+Wirtschaft,economía
+Pflanze,planta
+Hotelzimmer,habitación de hotel
+Alltag,vida cotidiana
+Netz,red
+Hausgerät,electrodoméstico
+Medienwelt,mundo de los medios
+Musik CD,CD de música
+Video,video
+Internet Nutzer,usuario de Internet
+steigen,aumentar
+Online Kauf,compra en línea
+Online Shopping,compras en línea
+Auswahl,selección
+posten,publicar
+ausschalten,apagar
+selbstverständlich,por supuesto
+knüpfen,conectar
+umgehen,manejar
+online sein,estar en línea
+dabei,presente
+bewerten,evaluar
+kommunizieren,comunicarse
+verändern,cambiar
+austauschen,intercambiar
+ständig,constante
+nutzen,usar
+aufwachsen,crecer
+anschauen,ver
+herunterladen,descargar
+WLAN,WiFi
+Selfie,selfie
+digital,digital
+Schifahren,esquiar
+Arbeitstätigkeit,actividad laboral
+Umschulung,reciclaje profesional
+Rückgaberecht,derecho de devolución
+Liebesgeschichte,historia de amor
+Warenkorb,carrito de compras
+Zahlungsmethode,método de pago
+Zertifikat,certificado
+Online-Chat,chat en línea
+E-Learning-Kurs,curso de aprendizaje en línea
+AGB,términos y condiciones
+Pflege,cuidado
+E-Learning,aprendizaje en línea
+Form,formulario
+Online-Shop,tienda en línea
+Internet-Einkauf,compra por Internet
