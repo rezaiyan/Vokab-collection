@@ -1,0 +1,33 @@
+achieve,به‌دست آوردن;adapt,سازگار شدن;address,رسیدگی کردن;affect,تأثیر
+گذاشتن;analyze,تحلیل
+کردن;approach,رویکرد;approximately,تقریباً;assume,فرض
+کردن;attempt,تلاش;available,قابل
+دسترس;benefit,مزیت;capable,توانا;challenge,چالش;clarify,روشن
+کردن;collaborate,همکاری کردن;communicate,ارتباط برقرار
+کردن;compare,مقایسه کردن;complex,پیچیده;conclude,نتیجه
+گرفتن;conduct,انجام دادن;confirm,تأیید کردن;consider,در نظر
+گرفتن;consistent,ثابت/پایدار;construct,ساختن;consume,مصرف
+کردن;contribute,مشارکت کردن;convince,قانع کردن;critical,حیاتی/خیلی
+مهم;debate,بحث کردن;define,تعریف کردن;demonstrate,نشان
+دادن;depend,وابسته بودن;describe,توصیف کردن;develop,توسعه
+دادن;discuss,بحث کردن;discover,کشف کردن;distinguish,تشخیص
+دادن;effective,موثر;efficient,کارآمد;emphasize,تاکید
+کردن;encourage,تشویق کردن;ensure,اطمینان حاصل کردن;establish,ایجاد
+کردن;estimate,برآورد کردن;evaluate,ارزیابی
+کردن;evidence,مدرک;examine,بررسی کردن;expand,گسترش
+دادن;experience,تجربه;explore,کاوش کردن;express,بیان کردن;focus,تمرکز
+کردن;function,عملکرد;goal,هدف;identify,شناسایی
+کردن;impact,تأثیر;improve,بهبود دادن;include,شامل شدن;increase,افزایش
+دادن;indicate,نشان دادن;influence,نفوذ / تاثیر;inform,اطلاع
+دادن;initial,اولیه;inspire,الهام دادن;issue,مسئله;maintain,حفظ
+کردن;major,اصلی/بزرگ;manage,مدیریت کردن;mention,اشاره
+کردن;method,روش;motivate,انگیزه دادن;necessary,ضروری;observe,مشاهده
+کردن;obvious,واضح;occur,رخ
+دادن;opinion,نظر;opportunity,فرصت;participate,شرکت
+کردن;particularly,به‌خصوص;perform,اجرا کردن;persuade,متقاعد
+کردن;potential,پتانسیل/توان بالقوه;predict,پیش‌بینی کردن;prevent,جلوگیری
+کردن;process,فرایند;progress,پیشرفت;provide,ارائه
+دادن;purpose,هدف;recommend,توصیه کردن;reduce,کاهش دادن;reflect,بازتاب
+دادن;reliable,قابل اعتماد;require,نیاز
+داشتن;research,تحقیق;respect,احترام;responsible,مسئول;result,نتیجه;significant,قابل
+توجه;solution,راه‌حل;suggest,پیشنهاد دادن;support,حمایت کردن
